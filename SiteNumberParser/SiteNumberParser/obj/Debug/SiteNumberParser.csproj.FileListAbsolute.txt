@@ -1,0 +1,9 @@
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\bin\Debug\SiteNumberParser.exe.config
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\bin\Debug\SiteNumberParser.exe
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\bin\Debug\SiteNumberParser.pdb
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\obj\Debug\SiteNumberParser.csprojResolveAssemblyReference.cache
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\obj\Debug\SiteNumberParser.Form1.resources
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\obj\Debug\SiteNumberParser.Properties.Resources.resources
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\obj\Debug\SiteNumberParser.csproj.GenerateResource.Cache
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\obj\Debug\SiteNumberParser.exe
+E:\Piotr\Programowanie\C#\SiteNumberParser\SiteNumberParser\SiteNumberParser\obj\Debug\SiteNumberParser.pdb
